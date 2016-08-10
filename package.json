@@ -1,0 +1,49 @@
+{
+  "authors": [
+    "Oliver Nightingale"
+  ],
+  "bugs": {
+    "url": "https://github.com/olivernn/davis.js/issues"
+  },
+  "dependencies": {
+    "jeesh": "*",
+    "valentine": ">= 1.5.x"
+  },
+  "description": "Simple, degradable JavaScript routing using HTML5 pushState.",
+  "devDependencies": {
+    "dox": ">= 0.3.0",
+    "dox-template": "*"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "0ada47ba1cb5965dacf7caeed382c3b737c65c94",
+    "tarball": "https://registry.npmjs.org/Davis/-/Davis-0.8.2.tgz"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "http://davisjs.com",
+  "keywords": [
+    "pushState",
+    "routing",
+    "ender"
+  ],
+  "main": "./davis.js",
+  "maintainers": [
+    {
+      "name": "olivernn",
+      "email": "oliver.nightingale1@gmail.com"
+    }
+  ],
+  "name": "Davis",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/olivernn/davis.js.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "0.8.2"
+}
