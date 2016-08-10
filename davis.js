@@ -1834,3 +1834,5 @@ Davis.App = (function () {
 
   return App;
 })()
+
+module.exports = Davis;
